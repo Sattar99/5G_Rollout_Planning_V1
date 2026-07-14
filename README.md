@@ -1,9 +1,5 @@
 # 5G Rollout Planning (Cork, Ireland)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/badge/license-see%20LICENSE-lightgrey)
-
 A geospatial optimization system for planning 5G telecom tower placement across Cork, Ireland — built as part of an MSc thesis (DATA9003) at Munster Technological University.
 
 The system combines population density, elevation, existing infrastructure, and land-use data to recommend tower locations that maximise coverage while minimising redundancy with existing sites.
